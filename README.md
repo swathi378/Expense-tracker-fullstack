@@ -13,19 +13,7 @@ A modern finance-tracking application where users can add & record expenses, vie
 
 
 
-## 🧭 Preview
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/monasri001/Expense-Tracker-Fullstack/master/dashbord.png" alt="Dashboard UI" width="65%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/monasri001/Expense-Tracker-Fullstack/master/expensedb.png" alt="Expense DB" width="65%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/monasri001/Expense-Tracker-Fullstack/master/vscode.png" alt="Dashboard UI" width="65%">
-</p>
 
 ---
 
