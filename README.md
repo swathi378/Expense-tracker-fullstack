@@ -204,17 +204,4 @@ Want more features? Open an issue or request:
 - Deploy to Railway + Vercel
 ```
 
----
-
-# 📜 License
-
-MIT — free to use, modify, and learn.
-
----
-
-# 🙌 Author
-
-Made with ❤️ by Monasri
-
-```
 
